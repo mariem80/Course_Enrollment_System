@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\bin\Debug\net8.0\EnrollmentSystem.Application.deps.json
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\bin\Debug\net8.0\EnrollmentSystem.Application.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\bin\Debug\net8.0\EnrollmentSystem.Application.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.AssemblyInfo.cs
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\refint\EnrollmentSystem.Application.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\ref\EnrollmentSystem.Application.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\bin\Debug\net8.0\EnrollmentSystem.Core.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\bin\Debug\net8.0\EnrollmentSystem.Core.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\EnrollmentSystem.Application.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Application\obj\Debug\net8.0\Enrollme.83312816.Up2Date

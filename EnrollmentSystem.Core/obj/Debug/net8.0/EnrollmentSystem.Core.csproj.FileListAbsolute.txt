@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\bin\Debug\net8.0\EnrollmentSystem.Core.deps.json
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\bin\Debug\net8.0\EnrollmentSystem.Core.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\bin\Debug\net8.0\EnrollmentSystem.Core.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\EnrollmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\EnrollmentSystem.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\EnrollmentSystem.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\EnrollmentSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\EnrollmentSystem.Core.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\refint\EnrollmentSystem.Core.dll
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\EnrollmentSystem.Core.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\EnrollmentSystem.Core\obj\Debug\net8.0\ref\EnrollmentSystem.Core.dll

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  enrollmentsystem.api:
+    image: ${DOCKER_REGISTRY-}enrollmentsystemapi
+    build:
+      context: .
+      dockerfile: Webapi/Dockerfile

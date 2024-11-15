@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\bin\Debug\net8.0\TestAPIs.deps.json
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\bin\Debug\net8.0\TestAPIs.dll
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\bin\Debug\net8.0\TestAPIs.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\TestAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\TestAPIs.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\TestAPIs.AssemblyInfo.cs
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\TestAPIs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\TestAPIs.dll
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\refint\TestAPIs.dll
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\TestAPIs.pdb
+C:\Users\hp\source\repos\EnrollmentSystem\TestAPIs\obj\Debug\net8.0\ref\TestAPIs.dll
